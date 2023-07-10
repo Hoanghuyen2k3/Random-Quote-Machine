@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Random Quote Machine
+
+This is the project in the Front End Development course on the Freecodecamp website.
+Random Quote Machine generates random quotes fetched from an API. It also includes a unique feature where blossoms fall continuously on the screen and move away from the mouse cursor with the assistance of Javascript, CSS and SASS. 
+
+![website-img](https://github.com/Hoanghuyen2k3/Random-Quote-Machine/assets/98433948/1a421c20-7b00-4892-a39e-6d7187879f5a)
+
+## Usage
+
+Once you have the project set up and running in your browser, you can use the Random Quote Machine as follows:
+
+Random Quote: Click the "New Quote" button to fetch a random quote from the API. The quote will be displayed on the screen along with the author's name.
+
+Blossom Effect: Enjoy the visual effect of falling blossoms on the screen. The blossoms will continuously fall from the top of the page and move away from your mouse cursor. It creates an interactive and aesthetically pleasing experience while using the Random Quote Machine.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
